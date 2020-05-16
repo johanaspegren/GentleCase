@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         // this should rather be a service ...
         setContentView(R.layout.activity_main);
 
+
 //        initiateSkypeUri(); // works, though inits in phonemode
 //        initiateSydsvenskan(); // opens nicely in web
 //        initiateNetflix(); // was not available for the tablet at hand
