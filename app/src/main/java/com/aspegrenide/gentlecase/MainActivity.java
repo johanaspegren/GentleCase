@@ -1,4 +1,4 @@
-package com.aspegrenide.gentlecaseskyper;
+package com.aspegrenide.gentlecase;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,7 +8,6 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 //        initiateSkypeUri(); // works, though inits in phonemode
-//        initiateSydsvenskan(); // opens nicely in web
+        initiateSydsvenskan(); // opens nicely in web
 //        initiateNetflix(); // was not available for the tablet at hand
 //        initiateSvtPlay(); // ok
 //        initiateSvtBarnPlay(); // ok

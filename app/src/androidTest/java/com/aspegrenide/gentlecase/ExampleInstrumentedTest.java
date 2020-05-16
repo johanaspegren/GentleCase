@@ -1,4 +1,4 @@
-package com.aspegrenide.gentlecaseskyper;
+package com.aspegrenide.gentlecase;
 
 import android.content.Context;
 
